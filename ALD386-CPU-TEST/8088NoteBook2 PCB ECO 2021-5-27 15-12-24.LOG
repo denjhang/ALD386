@@ -1,0 +1,8 @@
+Added Component: Designator=J1(SIP2)
+Added Component: Designator=Jbat(XH2.54-2)
+Added Pin To Net: NetName=VCC_CPU Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=206_VCC Pin=Jbat-1
+Added Pin To Net: NetName=GND Pin=Jbat-2
+Added Member To Class: ClassName=Sheet1 Member=Component J1 CON2
+Added Member To Class: ClassName=Sheet1 Member=Component Jbat CON2

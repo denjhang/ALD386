@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\开源 2022.2.15\即将开源\ALD386\ALD386-CPU-TEST\ALD386-CPU-TEST\8088NoteBook2.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=8088notebook2-roundholes-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=8088notebook2-slotholes-plated.txt|LayerPairs=gtl,gbl

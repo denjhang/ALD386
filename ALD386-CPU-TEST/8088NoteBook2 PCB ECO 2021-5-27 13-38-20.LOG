@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=GND Pin=I1-B1
+Added Pin To Net: NetName=GND Pin=I1-B2
+Added Pin To Net: NetName=GND Pin=I1-B3
+Added Pin To Net: NetName=GND Pin=I1-B4
+Added Pin To Net: NetName=GND Pin=I1-B5
+Added Pin To Net: NetName=GND Pin=I1-B6
+Added Pin To Net: NetName=GND Pin=I1-B7
+Added Pin To Net: NetName=GND Pin=I1-B8
+Added Pin To Net: NetName=VCC Pin=I1-B9
+Added Pin To Net: NetName=VCC Pin=I1-B10
+Added Pin To Net: NetName=VCC Pin=I1-B11
+Added Pin To Net: NetName=VCC Pin=I1-B12
+Added Pin To Net: NetName=VCC_CPU Pin=I1-B13
+Added Pin To Net: NetName=VCC_CPU Pin=I1-B14
+Added Pin To Net: NetName=VCC_CPU Pin=I1-B15

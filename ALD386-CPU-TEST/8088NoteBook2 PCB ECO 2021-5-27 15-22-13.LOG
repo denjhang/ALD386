@@ -1,0 +1,12 @@
+Added Component: Designator=M2(M3)
+Added Component: Designator=M3(M3)
+Added Component: Designator=M4(M3)
+Added Component: Designator=M5(M3)
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M5-1
+Added Member To Class: ClassName=Sheet1 Member=Component M2 CON1
+Added Member To Class: ClassName=Sheet1 Member=Component M3 CON1
+Added Member To Class: ClassName=Sheet1 Member=Component M4 CON1
+Added Member To Class: ClassName=Sheet1 Member=Component M5 CON1

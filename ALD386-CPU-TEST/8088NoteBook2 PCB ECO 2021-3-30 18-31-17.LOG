@@ -1,0 +1,158 @@
+Removed Member From Class: ClassName=Sheet1 Member=I1
+Removed Member From Class: ClassName=Sheet1 Member=I2
+Added Component: Designator=C19(C0603)
+Added Component: Designator=C20(C0603)
+Added Component: Designator=C21(C0603)
+Added Component: Designator=C22(C0603)
+Added Component: Designator=C24(C0603)
+Added Component: Designator=C26(C0603)
+Added Component: Designator=I5(BTB1.0-15P-B)
+Added Component: Designator=I6(BTB1.0-51P-b)
+Added Component: Designator=I7(BTB1.0-51P-b)
+Added Pin To Net: NetName=VCC Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=VCC Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=VCC Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=VCC Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=VCC Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=VCC Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=I5-1
+Added Pin To Net: NetName=GND Pin=I5-2
+Added Pin To Net: NetName=GND Pin=I5-3
+Added Pin To Net: NetName=GND Pin=I5-4
+Added Pin To Net: NetName=GND Pin=I5-5
+Added Pin To Net: NetName=GND Pin=I5-6
+Added Pin To Net: NetName=GND Pin=I5-7
+Added Pin To Net: NetName=GND Pin=I5-8
+Added Pin To Net: NetName=VCC Pin=I5-9
+Added Pin To Net: NetName=VCC Pin=I5-10
+Added Pin To Net: NetName=VCC Pin=I5-11
+Added Pin To Net: NetName=VCC Pin=I5-12
+Added Pin To Net: NetName=VCC Pin=I5-13
+Added Pin To Net: NetName=VCC Pin=I5-14
+Added Pin To Net: NetName=VCC Pin=I5-15
+Added Pin To Net: NetName=GND Pin=I6-0
+Added Pin To Net: NetName=GND Pin=I6-0
+Added Pin To Net: NetName=ISA_IRQ3 Pin=I6-1
+Added Pin To Net: NetName=ISA_IRQ5 Pin=I6-2
+Added Pin To Net: NetName=ISAD_IRQ11 Pin=I6-3
+Added Pin To Net: NetName=ISA_IRQ2 Pin=I6-4
+Added Pin To Net: NetName=ISA_IRQ6 Pin=I6-5
+Added Pin To Net: NetName=ISAD_IRQ15 Pin=I6-6
+Added Pin To Net: NetName=GND Pin=I6-7
+Added Pin To Net: NetName=ISA_IOREADY Pin=I6-8
+Added Pin To Net: NetName=KEY_A Pin=I6-9
+Added Pin To Net: NetName=ISAD_DRQ5 Pin=I6-10
+Added Pin To Net: NetName=ISAD_DRQ7 Pin=I6-11
+Added Pin To Net: NetName=ISAD_*DACK6 Pin=I6-12
+Added Pin To Net: NetName=ISA_DRQ2 Pin=I6-13
+Added Pin To Net: NetName=ISAD_*DACK0 Pin=I6-14
+Added Pin To Net: NetName=ISA_*DACK2 Pin=I6-15
+Added Pin To Net: NetName=ISA_OSC Pin=I6-16
+Added Pin To Net: NetName=ISAD_DRQ0 Pin=I6-17
+Added Pin To Net: NetName=ISA_A2 Pin=I6-18
+Added Pin To Net: NetName=ISA_A4 Pin=I6-19
+Added Pin To Net: NetName=ISA_A6 Pin=I6-20
+Added Pin To Net: NetName=ISA_A8 Pin=I6-21
+Added Pin To Net: NetName=ISA_A0 Pin=I6-22
+Added Pin To Net: NetName=ISA_D1 Pin=I6-23
+Added Pin To Net: NetName=ISA_D3 Pin=I6-24
+Added Pin To Net: NetName=ISA_D5 Pin=I6-25
+Added Pin To Net: NetName=ISA_D7 Pin=I6-26
+Added Pin To Net: NetName=ISA_D6 Pin=I6-27
+Added Pin To Net: NetName=ISA_D4 Pin=I6-28
+Added Pin To Net: NetName=ISA_D2 Pin=I6-29
+Added Pin To Net: NetName=ISA_D0 Pin=I6-30
+Added Pin To Net: NetName=GND Pin=I6-31
+Added Pin To Net: NetName=ISA_A7 Pin=I6-32
+Added Pin To Net: NetName=ISA_A5 Pin=I6-33
+Added Pin To Net: NetName=ISA_A3 Pin=I6-34
+Added Pin To Net: NetName=ISA_A1 Pin=I6-35
+Added Pin To Net: NetName=ISA_DRQ1 Pin=I6-36
+Added Pin To Net: NetName=ISA_*DACK3 Pin=I6-37
+Added Pin To Net: NetName=ISA_*DACK1 Pin=I6-38
+Added Pin To Net: NetName=ISA_DRQ3 Pin=I6-39
+Added Pin To Net: NetName=ISAD_*DACK7 Pin=I6-40
+Added Pin To Net: NetName=ISAD_*DACK5 Pin=I6-41
+Added Pin To Net: NetName=ISAD_DRQ6 Pin=I6-42
+Added Pin To Net: NetName=KEY_B Pin=I6-43
+Added Pin To Net: NetName=ISA_T/C Pin=I6-44
+Added Pin To Net: NetName=GND Pin=I6-45
+Added Pin To Net: NetName=ISA_RESET Pin=I6-46
+Added Pin To Net: NetName=ISAD_IRQ14 Pin=I6-47
+Added Pin To Net: NetName=ISA_IRQ7 Pin=I6-48
+Added Pin To Net: NetName=ISAD_IRQ10 Pin=I6-49
+Added Pin To Net: NetName=ISAD_IRQ12 Pin=I6-50
+Added Pin To Net: NetName=ISA_IRQ4 Pin=I6-51
+Added Pin To Net: NetName=GND Pin=I7-0
+Added Pin To Net: NetName=GND Pin=I7-0
+Added Pin To Net: NetName=ISA_D13 Pin=I7-1
+Added Pin To Net: NetName=ISA_D15 Pin=I7-2
+Added Pin To Net: NetName=GND Pin=I7-3
+Added Pin To Net: NetName=ISA_D11 Pin=I7-4
+Added Pin To Net: NetName=GND Pin=I7-5
+Added Pin To Net: NetName=ISAC_A17 Pin=I7-6
+Added Pin To Net: NetName=ISA_D9 Pin=I7-7
+Added Pin To Net: NetName=ISAC_*MEMW Pin=I7-8
+Added Pin To Net: NetName=ISAC_A20 Pin=I7-9
+Added Pin To Net: NetName=ISAC_A22 Pin=I7-10
+Added Pin To Net: NetName=GND Pin=I7-11
+Added Pin To Net: NetName=ISAC_*BHE Pin=I7-12
+Added Pin To Net: NetName=ISA_A10 Pin=I7-13
+Added Pin To Net: NetName=ISA_CLK86 Pin=I7-14
+Added Pin To Net: NetName=ISA_A11 Pin=I7-15
+Added Pin To Net: NetName=ISA_A13 Pin=I7-16
+Added Pin To Net: NetName=ISA_A14 Pin=I7-17
+Added Pin To Net: NetName=ISA_A16 Pin=I7-18
+Added Pin To Net: NetName=ISA_*DACK0 Pin=I7-19
+Added Pin To Net: NetName=ISA_A17 Pin=I7-20
+Added Pin To Net: NetName=ISA_A19 Pin=I7-21
+Added Pin To Net: NetName=ISA_*IOW Pin=I7-22
+Added Pin To Net: NetName=ISA_AEN Pin=I7-23
+Added Pin To Net: NetName=ISAD_*IOCS16 Pin=I7-24
+Added Pin To Net: NetName=GND Pin=I7-25
+Added Pin To Net: NetName=VCC Pin=I7-26
+Added Pin To Net: NetName=VCC Pin=I7-27
+Added Pin To Net: NetName=ISAD_*MASTER Pin=I7-28
+Added Pin To Net: NetName=ISAD_*MEMCS16 Pin=I7-29
+Added Pin To Net: NetName=ISA_ALE Pin=I7-30
+Added Pin To Net: NetName=ISA_*IOR Pin=I7-31
+Added Pin To Net: NetName=ISA_A18 Pin=I7-32
+Added Pin To Net: NetName=ISA_*IOCHCK Pin=I7-33
+Added Pin To Net: NetName=ISA_*MEMW Pin=I7-34
+Added Pin To Net: NetName=ISA_A15 Pin=I7-35
+Added Pin To Net: NetName=ISA_*MEMR Pin=I7-36
+Added Pin To Net: NetName=ISA_A12 Pin=I7-37
+Added Pin To Net: NetName=ISA_B8 Pin=I7-38
+Added Pin To Net: NetName=GND Pin=I7-39
+Added Pin To Net: NetName=ISA_A9 Pin=I7-40
+Added Pin To Net: NetName=ISAC_A23 Pin=I7-41
+Added Pin To Net: NetName=GND Pin=I7-42
+Added Pin To Net: NetName=ISAC_A21 Pin=I7-43
+Added Pin To Net: NetName=ISAC_*MEMR Pin=I7-44
+Added Pin To Net: NetName=ISA_D8 Pin=I7-45
+Added Pin To Net: NetName=ISAC_A18 Pin=I7-46
+Added Pin To Net: NetName=ISAC_A16 Pin=I7-47
+Added Pin To Net: NetName=ISA_D10 Pin=I7-48
+Added Pin To Net: NetName=ISA_D12 Pin=I7-49
+Added Pin To Net: NetName=GND Pin=I7-50
+Added Pin To Net: NetName=ISA_D14 Pin=I7-51
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M5-1
+Added Member To Class: ClassName=Sheet1 Member=Component C19 CAP
+Added Member To Class: ClassName=Sheet1 Member=Component C20 CAP
+Added Member To Class: ClassName=Sheet1 Member=Component C21 CAP
+Added Member To Class: ClassName=Sheet1 Member=Component C22 CAP
+Added Member To Class: ClassName=Sheet1 Member=Component C24 CAP
+Added Member To Class: ClassName=Sheet1 Member=Component C26 CAP
+Added Member To Class: ClassName=Sheet1 Member=Component I5 CON15P
+Added Member To Class: ClassName=Sheet1 Member=Component I6 CON51P
+Added Member To Class: ClassName=Sheet1 Member=Component I7 CON51P
+Added Room: Name=Sheet1

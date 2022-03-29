@@ -1,0 +1,26 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\นคื๗\AD6 Design\ALD386-CPU-TEST1\8088NoteBook2.PcbDoc
+Date     : 2021/5/27
+Time     : 15:31:04
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=300mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=393.701mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:00

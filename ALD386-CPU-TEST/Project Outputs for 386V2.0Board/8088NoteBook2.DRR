@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 8088NoteBook2.PcbDoc   2022/3/29  23:25:27
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : 8088NoteBook2-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : 8088NoteBook2-SlotHoles-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          177              1716.31 mm (67.57 Inch)
+T2        0.7112mm (28mil)         Round          2                5.08 mm (0.20 Inch)
+T3        0.8mm (31.496mil)        Round          300              1298.17 mm (51.11 Inch)
+T4        0.8mm (31.496mil)        Slot           3                7038.73 mm (277.12 Inch)
+T5        1mm (39.37mil)           Round          16               72.70 mm (2.86 Inch)
+T6        2.2mm (86.614mil)        Round          2                55.00 mm (2.17 Inch)
+T7        3mm (118.11mil)          Round          4                537.66 mm (21.17 Inch)
+---------------------------------------------------------------------------
+Totals                                            504              10723.64 mm (422.19 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

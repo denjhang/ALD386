@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [8088NOTEBOOK.PRJPCB]
+   Generated File[Pick Place for 8088NoteBook2.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:14:21 On 2022/3/29

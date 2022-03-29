@@ -1,0 +1,34 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+RM6        R0603                5.0755mm        -7.9mm        4.25mm        -7.9mm        4.25mm        -7.9mm  B        360.00 100            
+RM5        R0603                5.0755mm        -6.5mm        4.25mm        -6.5mm        4.25mm        -6.5mm  B        360.00 100            
+RM4        R0603                   -31mm    -17.6745mm         -31mm       -18.5mm         -31mm       -18.5mm  B         90.00 100            
+RM3        R0603                -19.25mm    -17.6745mm      -19.25mm       -18.5mm      -19.25mm       -18.5mm  B         90.00 100            
+RM2        R0603                5.0755mm      -21.45mm        4.25mm      -21.45mm        4.25mm      -21.45mm  B        360.00 100            
+RM1        R0603                5.0755mm      -22.85mm        4.25mm      -22.85mm        4.25mm      -22.85mm  B        360.00 100            
+C16        C0603                4.0752mm        2.85mm        3.25mm        2.85mm        3.25mm        2.85mm  B        360.00 CAP            
+C14        C0603                4.0752mm        1.35mm        3.25mm        1.35mm        3.25mm        1.35mm  B        360.00 CAP            
+C2         C0603              -43.0752mm       -11.4mm      -42.25mm       -11.4mm      -42.25mm       -11.4mm  B        180.00 0.1uf          
+C7         C0603                4.0252mm       -10.9mm         3.2mm       -10.9mm         3.2mm       -10.9mm  B        360.00 CAP            
+C8         C0603                4.0752mm       -9.45mm        3.25mm       -9.45mm        3.25mm       -9.45mm  B        360.00 CAP            
+C9         C0603              -43.0752mm      -12.85mm      -42.25mm      -12.85mm      -42.25mm      -12.85mm  B        180.00 CAP            
+I3         BTB1.0-51P-b             -2mm       -12.5mm           0mm           0mm           0mm           0mm  B        270.00 CON51P         
+C12        C0603               -5.3252mm         4.4mm        -4.5mm         4.4mm        -4.5mm         4.4mm  B        180.00 CAP            
+C11        C0603              -16.8253mm         4.4mm         -16mm         4.4mm         -16mm         4.4mm  B        180.00 CAP            
+C10        C0603              -28.8253mm         4.4mm         -28mm         4.4mm         -28mm         4.4mm  B        180.00 CAP            
+C6         C0603              -38.2248mm         4.4mm      -39.05mm         4.4mm      -39.05mm         4.4mm  B        360.00 CAP            
+C5         C0603               -5.3252mm       -28.6mm        -4.5mm       -28.6mm        -4.5mm       -28.6mm  B        180.00 CAP            
+C4         C0603              -16.8253mm       -28.6mm         -16mm       -28.6mm         -16mm       -28.6mm  B        180.00 CAP            
+C3         C0603              -28.8253mm       -28.6mm         -28mm       -28.6mm         -28mm       -28.6mm  B        180.00 CAP            
+C1         C0603              -38.1748mm       -28.6mm         -39mm       -28.6mm         -39mm       -28.6mm  B        360.00 0.1uf          
+U6         SOJ-24-A            -23.432mm      -20.72mm      -27.75mm       -13.1mm      -27.75mm       -13.1mm  T          0.00 DRAM-SOJ24     
+U2         SOJ-24-A            -35.182mm      -20.72mm       -39.5mm       -13.1mm       -39.5mm       -13.1mm  T          0.00 DRAM-SOJ24     
+U8         SOJ-24-A              0.068mm      -20.72mm       -4.25mm       -13.1mm       -4.25mm       -13.1mm  T          0.00 DRAM-SOJ24     
+U7         SOJ-24-A              0.068mm       -3.52mm       -4.25mm         4.1mm       -4.25mm         4.1mm  T          0.00 DRAM-SOJ24     
+U5         SOJ-24-A            -23.432mm       -3.52mm      -27.75mm         4.1mm      -27.75mm         4.1mm  T          0.00 DRAM-SOJ24     
+U4         SOJ-24-A            -11.682mm      -20.72mm         -16mm       -13.1mm         -16mm       -13.1mm  T          0.00 DRAM-SOJ24     
+U1         SOJ-24-A            -35.182mm       -3.52mm       -39.5mm         4.1mm       -39.5mm         4.1mm  T          0.00 DRAM-SOJ24     
+U3         SOJ-24-A            -11.682mm       -3.52mm         -16mm         4.1mm         -16mm         4.1mm  T          0.00 DRAM-SOJ24     
+M4         M2A                     -43mm       -27.1mm         -43mm       -27.1mm         -43mm       -27.1mm  T          0.00 CON1           
+M1         M2A                     -43mm         2.9mm         -43mm         2.9mm         -43mm         2.9mm  T          0.00 CON1           
+

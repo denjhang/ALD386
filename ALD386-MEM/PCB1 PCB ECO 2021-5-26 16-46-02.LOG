@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Member To Class: ClassName=Sheet1 Member=Component M1 CON1
+Added Member To Class: ClassName=Sheet1 Member=Component M4 CON1
